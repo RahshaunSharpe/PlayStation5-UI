@@ -1,2 +1,3 @@
 # PlayStation5-UI
-The PS5 UI dashboard 
+The PS5 dashboard UI
+
